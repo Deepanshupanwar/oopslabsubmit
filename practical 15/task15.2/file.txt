@@ -1,0 +1,2 @@
+this is task2 to write in a file
+ task3 to append a file
